@@ -6,7 +6,7 @@ automatically books available courses on the user's behalf.
 
 When a course availability notification arrives, the agent parses 
 the email, navigates the EMS web interface, and adds the course 
-to the shortlist — completing the full booking loop without 
+to the shortlist - completing the full booking loop without 
 human intervention.
 
 ## How it works
@@ -19,7 +19,7 @@ human intervention.
 ## Why this matters
 Course bidding at competitive business schools is time-sensitive. 
 Manual monitoring means missed opportunities. This agent acts 
-instantly — at any hour.
+instantly - at any hour.
 
 **Stack:** Python · Email parsing · Browser automation · 
 Agentic AI loop# ems-course-booking-agent
