@@ -22,7 +22,7 @@ Manual monitoring means missed opportunities. This agent acts
 instantly - at any hour.
 
 **Stack:** Python · Email parsing · Browser automation · 
-Agentic AI loop# ems-course-booking-agent
+Agentic AI loop
 
 ## Current Limitation
 Requires an active authenticated session in EMS. If the session 
