@@ -23,3 +23,9 @@ instantly - at any hour.
 
 **Stack:** Python · Email parsing · Browser automation · 
 Agentic AI loop# ems-course-booking-agent
+
+## Current Limitation
+Requires an active authenticated session in EMS. If the session 
+has expired, MFA is triggered and human intervention is needed 
+to re-authenticate before the agent can proceed. Full 
+end-to-end automation is active once the session is live.
